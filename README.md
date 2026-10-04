@@ -1,6 +1,6 @@
 # Pumpkin Plugins
 
-Author Senal Karanda. License MIT.
+License MIT.
 
 These plugins run on a Pumpkin Minecraft server.
 
