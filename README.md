@@ -4,8 +4,6 @@ License MIT.
 
 These plugins run on a Pumpkin Minecraft server.
 
-You also get these READMEs, the editor programs, and `start-editors.ps1`.
-
 ## Install
 
 1. Copy the plugin `.wasm` file into the server's `plugins` folder.
