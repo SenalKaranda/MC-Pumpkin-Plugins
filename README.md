@@ -1,8 +1,8 @@
 # Pumpkin Plugins
 
-Author Karanda. License MIT.
+Author Senal Karanda. License MIT.
 
-These plugins run on a Pumpkin Minecraft server. Copy each `.wasm` file into the server's `plugins` folder and restart. The server creates a data folder for that plugin. Settings live in `config.toml` inside that folder.
+These plugins run on a Pumpkin Minecraft server.
 
 You also get these READMEs, the editor programs, and `start-editors.ps1`.
 
