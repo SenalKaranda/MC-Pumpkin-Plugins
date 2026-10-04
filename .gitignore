@@ -1,0 +1,25 @@
+# Local junk only. This folder ships the wasm files, READMEs,
+# start-editors.ps1, web/dist, and the release editor programs.
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# Node, only if a web project is copied in beside a built page
+**/node_modules/
+
+# Cargo debug and incremental output from a copied build tree.
+# target/release/*.exe stays trackable.
+**/target/debug/
+**/target/incremental/
+**/target/**/deps/
+**/target/**/*.d
+**/*.rlib
+**/target/**/fingerprint/
+**/.cargo-lock
